@@ -1,0 +1,143 @@
+[[nng]]
+arch = "aarch64"
+git-tree-sha1 = "0d89402a2aa66b4bf8b207af4c53ec9fcbf7e888"
+os = "macos"
+
+    [[nng.download]]
+    sha256 = "64a5be183b707f6f5cbefeffad58d15724db527e51405fcc69d5e6d3a4759fb0"
+    url = "https://github.com/JuliaBinaryWrappers/nng_jll.jl/releases/download/nng-v1.0.0+0/nng.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[nng]]
+arch = "aarch64"
+git-tree-sha1 = "e611e784a3213b92fd08901d971a134bf30733f2"
+libc = "glibc"
+os = "linux"
+
+    [[nng.download]]
+    sha256 = "5c083e1fb75c564ff1a81e94a9585c2fefc2ca53e5fc3dac5f415001e65d4338"
+    url = "https://github.com/JuliaBinaryWrappers/nng_jll.jl/releases/download/nng-v1.0.0+0/nng.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[nng]]
+arch = "aarch64"
+git-tree-sha1 = "ec5894024620ba47b8b46aba6a105a5ce5032ff0"
+libc = "musl"
+os = "linux"
+
+    [[nng.download]]
+    sha256 = "aef725de120953ab8be2916e9b718a92da2b937e4c7c713d4db0870c17be74d6"
+    url = "https://github.com/JuliaBinaryWrappers/nng_jll.jl/releases/download/nng-v1.0.0+0/nng.v1.0.0.aarch64-linux-musl.tar.gz"
+[[nng]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d8d39e745c81a049bac1f635ea4a2e4540e84147"
+libc = "glibc"
+os = "linux"
+
+    [[nng.download]]
+    sha256 = "75dd2da96eb5a799d2db4690e21980a2b476f001ae1d320b45a3716010be3bb2"
+    url = "https://github.com/JuliaBinaryWrappers/nng_jll.jl/releases/download/nng-v1.0.0+0/nng.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[nng]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e869f8e8a20362bf8e4bd3cec0b328028ded64d5"
+libc = "musl"
+os = "linux"
+
+    [[nng.download]]
+    sha256 = "136690b259f21596868b1ffb6f335ccba3c1fa281654709c7a18b83172789fd5"
+    url = "https://github.com/JuliaBinaryWrappers/nng_jll.jl/releases/download/nng-v1.0.0+0/nng.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+[[nng]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "eacdd78f0157490023caa2cf999a22b8488c1f69"
+libc = "glibc"
+os = "linux"
+
+    [[nng.download]]
+    sha256 = "9e84bac91a6483efd681d0018f3b831b0415c90830bd4fa8f27af269dde476d3"
+    url = "https://github.com/JuliaBinaryWrappers/nng_jll.jl/releases/download/nng-v1.0.0+0/nng.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[nng]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c23982b144619271f0ed368d2826aeeb62f57909"
+libc = "musl"
+os = "linux"
+
+    [[nng.download]]
+    sha256 = "acff1fd52e727a1e670a6dfdc1e0af8980c16526b8cd857c893a06fdd3418ff2"
+    url = "https://github.com/JuliaBinaryWrappers/nng_jll.jl/releases/download/nng-v1.0.0+0/nng.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[nng]]
+arch = "i686"
+git-tree-sha1 = "778b6b10f51cfa999041bf3365c905819c548d3c"
+libc = "glibc"
+os = "linux"
+
+    [[nng.download]]
+    sha256 = "8010326c91a5021b13c8032ff502edd292b8a4341ea841032ff5f91d545d11d5"
+    url = "https://github.com/JuliaBinaryWrappers/nng_jll.jl/releases/download/nng-v1.0.0+0/nng.v1.0.0.i686-linux-gnu.tar.gz"
+[[nng]]
+arch = "i686"
+git-tree-sha1 = "c8d7a374af023e0c5d759a6e12e75c1ad12d4b3e"
+libc = "musl"
+os = "linux"
+
+    [[nng.download]]
+    sha256 = "a8cd0ccb244aeaf226bc8983f546d7dae8c2e2526f37a8a223765a299cc691b5"
+    url = "https://github.com/JuliaBinaryWrappers/nng_jll.jl/releases/download/nng-v1.0.0+0/nng.v1.0.0.i686-linux-musl.tar.gz"
+[[nng]]
+arch = "i686"
+git-tree-sha1 = "19dd02d6337066519fadceb6912dea93551d7492"
+os = "windows"
+
+    [[nng.download]]
+    sha256 = "5f3dc63f73fccb788eeb673f2c2a1eb6da4380d1edfa00c0489384484d0491ea"
+    url = "https://github.com/JuliaBinaryWrappers/nng_jll.jl/releases/download/nng-v1.0.0+0/nng.v1.0.0.i686-w64-mingw32.tar.gz"
+[[nng]]
+arch = "powerpc64le"
+git-tree-sha1 = "432e52e3edaa7f88c0c91a4b69f2fea9c5cec3c1"
+libc = "glibc"
+os = "linux"
+
+    [[nng.download]]
+    sha256 = "2a7e143ad669a561fec589a4ad79eb099e15430ab6049ca2cb52ad1893e006d4"
+    url = "https://github.com/JuliaBinaryWrappers/nng_jll.jl/releases/download/nng-v1.0.0+0/nng.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[nng]]
+arch = "x86_64"
+git-tree-sha1 = "6758a1ae938ca4c3af6441b97be3566bcc1ccc29"
+os = "macos"
+
+    [[nng.download]]
+    sha256 = "6632f5c0cdf35f4f05457de5fcc81dfd23bd17ef219d776d3e4491d1642590c8"
+    url = "https://github.com/JuliaBinaryWrappers/nng_jll.jl/releases/download/nng-v1.0.0+0/nng.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[nng]]
+arch = "x86_64"
+git-tree-sha1 = "fe9782f207d719b3bbd8efec47db83c9c2906269"
+libc = "glibc"
+os = "linux"
+
+    [[nng.download]]
+    sha256 = "9408c95bc6d0b2070248d20bda3f54123eece610030eaf630fef542592de2b10"
+    url = "https://github.com/JuliaBinaryWrappers/nng_jll.jl/releases/download/nng-v1.0.0+0/nng.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[nng]]
+arch = "x86_64"
+git-tree-sha1 = "bfdd404060ec79ee21eb85488f8ca33d22010e52"
+libc = "musl"
+os = "linux"
+
+    [[nng.download]]
+    sha256 = "a9302add5c69ceb011730d9d23213835026c4ec55d720ba21360b833d60364bc"
+    url = "https://github.com/JuliaBinaryWrappers/nng_jll.jl/releases/download/nng-v1.0.0+0/nng.v1.0.0.x86_64-linux-musl.tar.gz"
+[[nng]]
+arch = "x86_64"
+git-tree-sha1 = "18406b664ff58980f0b585b481261c2dca64ff37"
+os = "freebsd"
+
+    [[nng.download]]
+    sha256 = "3735a048cd3abe18c8adce21b9e6f5e655bdd2bcfa1aeff78e4ac696d76ad2a1"
+    url = "https://github.com/JuliaBinaryWrappers/nng_jll.jl/releases/download/nng-v1.0.0+0/nng.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[nng]]
+arch = "x86_64"
+git-tree-sha1 = "fedc750fa2c9786522953f8b82029c3f29cc2240"
+os = "windows"
+
+    [[nng.download]]
+    sha256 = "77614432b0a530a5a8ab21e2b29a9ee7e1abc42cade6ea926ed36dc5803b0c90"
+    url = "https://github.com/JuliaBinaryWrappers/nng_jll.jl/releases/download/nng-v1.0.0+0/nng.v1.0.0.x86_64-w64-mingw32.tar.gz"
